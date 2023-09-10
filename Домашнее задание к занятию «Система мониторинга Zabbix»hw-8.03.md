@@ -50,9 +50,13 @@
 7. sudo -u postgres createdb -O zabbix zabbix
 8. zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
 9. sudo nano /etc/zabbix/zabbix_server.conf
-10.DBPassword=1
+Прописал пароль
+DBPassword=1
+   
 11.systemctl restart zabbix-server zabbix-agent apache2
+
 12.systemctl enable zabbix-server zabbix-agent apache2
+
 ---
 
 ### Задание 2 
