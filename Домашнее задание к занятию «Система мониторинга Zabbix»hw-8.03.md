@@ -40,7 +40,19 @@
 #### Требования к результаты 
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
-
+#### Ответ
+1. wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian12_all.deb
+2. dpkg -i zabbix-release_6.4-1+debian12_all.deb
+3. apt update
+4. sudo apt install postgresql
+5. apt install zabbix-server-pgsql zabbix-frontend-php php8.2-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+6. sudo -u postgres createuser --pwprompt zabbix
+7. sudo -u postgres createdb -O zabbix zabbix
+8. zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+9. sudo nano /etc/zabbix/zabbix_server.conf
+10.DBPassword=1
+11.systemctl restart zabbix-server zabbix-agent apache2
+12.systemctl enable zabbix-server zabbix-agent apache2
 ---
 
 ### Задание 2 
@@ -59,4 +71,5 @@
 2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
+#### Ответ
 
