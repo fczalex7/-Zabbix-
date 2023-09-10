@@ -81,8 +81,9 @@ DBPassword=1
 #### Установка
 ![Zab2](https://github.com/fczalex7/-Zabbix-/assets/141554023/08f42d96-01a7-4015-bac1-928f6eb0c05c)
 ![Zab3](https://github.com/fczalex7/-Zabbix-/assets/141554023/b14be1a4-e52b-47fe-9416-7fdf715587d5)
-![z1](https://github.com/fczalex7/-Zabbix-/assets/141554023/0ab57fd3-eb21-42dc-9de8-fd8eec78b5d7)
-![z2](https://github.com/fczalex7/-Zabbix-/assets/141554023/a77545c7-eda4-4377-9ca5-1b1c20099054)
+![z1](https://github.com/fczalex7/-Zabbix-/assets/141554023/baba3b23-ee0e-465c-9a56-53464cb6ddaa)
+![z2](https://github.com/fczalex7/-Zabbix-/assets/141554023/99e92ab1-c003-4adb-a8dd-3febd8c8a345)
+
 
 
 
