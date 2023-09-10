@@ -57,6 +57,8 @@ DBPassword=1
 
 12.systemctl enable zabbix-server zabbix-agent apache2
 
+![Zab1](https://github.com/fczalex7/-Zabbix-/assets/141554023/f1910243-3b00-4744-9d2c-3531a1fb6806)
+
 ---
 
 ### Задание 2 
@@ -76,4 +78,13 @@ DBPassword=1
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
 #### Ответ
+#### Установка
+![Zab2](https://github.com/fczalex7/-Zabbix-/assets/141554023/08f42d96-01a7-4015-bac1-928f6eb0c05c)
+![Zab3](https://github.com/fczalex7/-Zabbix-/assets/141554023/b14be1a4-e52b-47fe-9416-7fdf715587d5)
+![z1](https://github.com/fczalex7/-Zabbix-/assets/141554023/0ab57fd3-eb21-42dc-9de8-fd8eec78b5d7)
+![z2](https://github.com/fczalex7/-Zabbix-/assets/141554023/a77545c7-eda4-4377-9ca5-1b1c20099054)
+
+
+
+
 
