@@ -84,6 +84,10 @@ DBPassword=1
 ![z1](https://github.com/fczalex7/-Zabbix-/assets/141554023/baba3b23-ee0e-465c-9a56-53464cb6ddaa)
 ![z2](https://github.com/fczalex7/-Zabbix-/assets/141554023/99e92ab1-c003-4adb-a8dd-3febd8c8a345)
 
+#### Скрин логов 
+![ЯФМ1](https://github.com/fczalex7/-Zabbix-/assets/141554023/048bee97-b27f-4a93-9593-ff16f864df7e)
+![ЯФС1](https://github.com/fczalex7/-Zabbix-/assets/141554023/1b09a10f-6716-4af7-be0a-6a9b94330b77)
+
 
 
 
