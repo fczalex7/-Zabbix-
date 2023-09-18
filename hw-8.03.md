@@ -40,6 +40,12 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
+### Ответ 1
+1. ### CPU и RAM
+1.![CPU](https://github.com/fczalex7/-Zabbix-/assets/141554023/3f3a2d81-ea13-4f8d-9815-1a5f244854a8)
+2.![RAM](https://github.com/fczalex7/-Zabbix-/assets/141554023/1b476223-290b-44cd-bed8-83db82ecdbce)
+
+
 
  ---
 
@@ -70,6 +76,13 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
+### Ответ3
+По Оперативной памяти не смог добавить шаблон так как он уже есть в Linux by Zabbix Agent
+![zab6](https://github.com/fczalex7/-Zabbix-/assets/141554023/0e8221d3-f36c-43dd-9811-60342f9a5c71)
+![zab8](https://github.com/fczalex7/-Zabbix-/assets/141554023/5d3e2d36-30ae-4be5-87c0-b3b316e8c10d)
+![яфи8](https://github.com/fczalex7/-Zabbix-/assets/141554023/371df860-0932-477a-9df9-3ff98c9b6b34)
+
+
 
  ---
 
@@ -83,5 +96,8 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+### Ответ 4
+![яфи9](https://github.com/fczalex7/-Zabbix-/assets/141554023/cdb26bd0-7c56-4238-a665-afe2892b3196)
+![яфм9](https://github.com/fczalex7/-Zabbix-/assets/141554023/79ba6bb2-afc7-44eb-bc30-3039b8f76aab)
 
  ---
